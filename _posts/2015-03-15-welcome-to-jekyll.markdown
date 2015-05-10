@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Day 1"
-categories: days
+categories: tools
 ---
 * Create a [Github][github] account (free)
      * Github is a place to save your code online. It makes it easier to share projects and work together with other people on projects.

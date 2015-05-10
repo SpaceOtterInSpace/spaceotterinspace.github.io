@@ -2,7 +2,7 @@
 layout: post
 title:  "HTML, CSS and Javascript"
 date:   2015-03-30 09:39:03
-categories: projects
+categories: tips
 ---
 
 There are a lot of technologies that go into making a website. It can be overwhelming to learn them all. I suggest starting with these three languages. Every website requires HTML. Every website you've ever seen has CSS. Every website also probably has Javascript.
