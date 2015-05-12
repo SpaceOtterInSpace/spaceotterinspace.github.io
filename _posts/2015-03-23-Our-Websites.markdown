@@ -7,7 +7,7 @@ categories: info
 These are some github pages we have been working on:
 
 * [Kayla's Website][kayla's pages]
-* [Jaqui's Website][jaqui's pages]
+* [Jacqui's Website][jacqui's pages] (aka, this one)
 * [Jaelle's Website][jaelle's pages]
 * [Sia's Website][sia's pages]
 * [Lila's Website][lila's pages]
@@ -16,7 +16,7 @@ These are some github pages we have been working on:
 
 [kayla's pages]: http://kayladowling.github.io/
 
-[jaqui's pages]: http://spaceotterinspace.github.io/
+[jacqui's pages]: http://nodevelopersleftbehind.com/
 
 [jaelle's pages]:http://jaelle.github.io/
 
