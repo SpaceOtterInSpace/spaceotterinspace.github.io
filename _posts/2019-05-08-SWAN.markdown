@@ -74,6 +74,16 @@ Lessons for Swan
   </a>
 </p>
 <p>
+  <a href="https://www.youtube.com/watch?v=58iT2L4VQj4&t=36">
+    Intro
+  </a>
+</p>
+<p>
+  <a href="https://www.youtube.com/watch?v=OBhirBbK81E">
+    Listening
+  </a>
+</p>
+<p>
   <a href="https://docs.google.com/document/d/1Oh_eWQVhkYx4KffbvXPpKLKUQq36LzzlVMsZLvTYb4U/edit?usp=sharing">
     Materials
   </a>
