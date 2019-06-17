@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "A2"
+date:   2019-06-19 09:39:03
+categories: projects
+---
+Lessons for Swan
+<h2>
+New Vocabulary
+</h2>
+<p>
+  <a href="https://img.etimg.com/thumb/msid-69689842,width-643,imgsize-179671,resizemode-4/bradangelina1.jpg">First</a>
+</p>
+<p>
+  <a href="https://img.huffingtonpost.com/asset/5cd9dc352100005900805b84.jpeg?ops=scalefit_630_noupscale">Second</a>
+</p>
+<p>
+  <a href="https://cdn3.whatculture.com/images/2016/06/48605cadccb1f477-600x338.jpg">Third</a>
+</p>
+<p>
+  <a href="https://images-production.freetls.fastly.net/uploads/photos/file/271035/dr-drake-ramoray-dies.png?auto=compress&crop=top&fit=max&q=55&w=750">Fourth</a>
+</p>
+<p>
+  <a href="https://img.buzzfeed.com/buzzfeed-static/static/2015-01/2/20/enhanced/webdr11/original-21386-1420248782-8.png?downsize=700:*&output-format=auto&output-quality=auto">Fifth</a>
+</p>
+<p>
+  <a href="https://img.buzzfeed.com/buzzfeed-static/static/2015-01/2/20/enhanced/webdr11/original-21386-1420248782-8.png?downsize=700:*&output-format=auto&output-quality=auto">Sixth</a>
+</p>
+<p>
+  <a href="https://www.theloop.ca/wp-content/uploads/2014/09/phoebe_run.gif">Seventh</a>
+</p>
+<p>
+  <a href="https://avatars2.githubusercontent.com/u/12676?s=460&v=4">Eighth</a>
+</p>
