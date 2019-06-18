@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "B1"
+date:   2019-06-18 09:39:03
+categories: projects
+---
+
+<p>A: Hi, are you here for the interview?</p>
+<p>B: Yes, I am.</p>
+<p>A: Great, let’s get started.</p>
+<p>B: Great.</p>
+<p>A: Where did you learn to type 80 words per minute?</p>
+<p>B: At my last job, as a receptionist.</p>
+<p>A: What is your greatest weakness?</p>
+<p>B: I sometimes work too hard.</p>
+<p>A: When can you start working?</p>
+<p>B: I can start in 2 weeks.</p>
